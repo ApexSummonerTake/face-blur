@@ -1,0 +1,50 @@
+{
+    "name":  "face-blur",
+    "logo":  "🌫️",
+    "exe":  "FaceBlur.exe",
+    "desc":  "Free, open-source face anonymizer for Windows — blur or pixelate faces in photos and videos locally. 100 MB portable, offline, MIT.",
+    "topics":  [
+                   "face-blur",
+                   "anonymization",
+                   "privacy",
+                   "video-editing",
+                   "onnx",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "face-detection",
+                   "batch-photos",
+                   "pixelate",
+                   "content-creation",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Photos and videos** — faces detected and blurred frame by frame in clips, not just stills",
+                     "✅ **Tracking between frames** — a blur box follows a face through motion instead of flickering off",
+                     "✅ **Blur or pixelate** — strength dial per mode, with a solid-cover option for strict cases",
+                     "✅ **Keep-list** — mark the presenter\u0027s face to stay sharp while everyone else is covered",
+                     "✅ **Batch photo folders** — a thousand event photos anonymized unattended",
+                     "✅ **Copy-first workflow** — originals untouched; outputs written to a separate folder with a manifest",
+                     "✅ **100 MB self-contained exe** — runtime and detection model bundled, portable, offline, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **face-blur** | YouTube blur tool | Manual editing | Cloud anonymizers |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Built-in upload | Subscription | Paid tiers |",
+                    "| Open source | **Yes** | No | No | No",
+                    "| Works on local files | **Yes** | Upload required | Yes | Upload",
+                    "| Batch photo folders | **Yes** | No | No | Partial",
+                    "| Keep-list for target faces | **Yes** | Partial | Manual | No",
+                    "| Portable, no install | **Yes, 100 MB** | Browser | Installer | Browser"
+                ],
+    "faqQ":  "blur faces in videos and photos offline on Windows?",
+    "faqA":  "Editors charge subscriptions, web tools want the footage uploaded and YouTube\u0027s blur only exists after posting. face-blur detects and tracks faces locally, keeps chosen faces sharp and covers the rest in batch. It is a 100 MB portable exe, MIT, offline, originals untouched.",
+    "s1":  "Dark anonymizer (#121417, zinc #71717A): video preview with tracked blur boxes on three faces, keep-list chip on the presenter, strength dial at 0.8.",
+    "s2":  "Photo batch: 240 event photos with detected face counts, blur mode tiles, progress at 61 percent, manifest checkbox enabled.",
+    "s3":  "Track review: timeline strip with follow segments per face, two manual keyframe dots added, export button, output folder chip."
+}
